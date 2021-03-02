@@ -88,7 +88,8 @@
 - [Sushiswap](#sushiswap)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
-- [Tezos](#Tezos)
+- [Tezos](#tezos)
+- [Topshots](#topshots)
 - [Tornado Cash](#tornado-cash)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
@@ -608,6 +609,15 @@
 - https://tzstats.com
 - https://twitter.com/tezosagorabot
 
+## Topshots
+- https://cryptoslam.io/nba-top-shot
+- https://momentranks.com
+- https://intangible.market
+- https://evaluate.market
+- https://www.optiballer.com
+- https://www.collectrlabs.com
+- https://topshotexplorer.com
+
 ## Tornado Cash
 - https://duneanalytics.com/poma/tornado-cash_1
 
@@ -652,7 +662,7 @@
 - https://defipulse.com/yearn.finance
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
-- https://yearn.rocks/
+- https://yearn.rocks
 
 ## Other
 ### 51% attacks
@@ -683,7 +693,7 @@
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 
 ### Miner Extractable Value (MEV)
-- https://explore.flashbots.net/
+- https://explore.flashbots.net
 
 ### Mining profitability
 - https://whattomine.com
@@ -705,8 +715,8 @@
 ### Staking
 - https://stakingrewards.com
 - https://staked.us/yields
-- https://defiscan.io/
-- https://yieldfarming.info/
+- https://defiscan.io
+- https://yieldfarming.info
 
 ## Contribute
 
